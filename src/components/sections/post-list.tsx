@@ -37,7 +37,22 @@ const PostItem = ({ post, index }: { post: Post; index: number }) => {
     minute: '2-digit'
   }) : '';
 
-  // Extract first image from content for card thumbnail
+  // Generate correct post URL based on ID format
+  const getPostUrl = (postId: string) => {
+    // Handle different ID formats
+    if (postId.startsWith('article-')) {
+      // Database article format: article-timestamp-random
+      return `/post/${postId}`;
+    } else if (postId.includes('tag:blogger.com')) {
+      // Legacy blogger format: tag:blogger.com,1999:blog-...post-...
+      // Extract the post ID part after the last hyphen
+      const parts = postId.split('-');
+      return `/post/${parts[parts.length - 1]}`;
+    } else {
+      // Fallback
+      return `/post/${postId}`;
+    }
+  };
   const imgMatch = post.content.match(/<img.*?src="(.*?)"/);
   const thumbnailSrc = imgMatch ? imgMatch[1] : null;
 
@@ -116,7 +131,7 @@ const PostItem = ({ post, index }: { post: Post; index: number }) => {
         {/* Card Image */}
         {thumbnailSrc && (
           <Link 
-            href={`/post/${post.id.split('-').pop()}`}
+            href={getPostUrl(post.id)}
             className="block relative overflow-hidden aspect-[16/9] image-hover-zoom"
           >
             <div
@@ -140,7 +155,7 @@ const PostItem = ({ post, index }: { post: Post; index: number }) => {
           {/* Title */}
           <h2 className="mb-4">
             <Link 
-              href={`/post/${post.id.split('-').pop()}`}
+              href={getPostUrl(post.id)}
               className="text-2xl md:text-3xl font-semibold text-gray-900 transition-colors duration-300 leading-tight link-hover-underline hover:opacity-70"
               style={{ fontFamily: 'Constantia, serif', color: '#0c06f7' }}
             >
@@ -174,7 +189,7 @@ const PostItem = ({ post, index }: { post: Post; index: number }) => {
             <div className="flex items-center gap-2">
               <span className="text-xs text-gray-400 mr-2">Share:</span>
               <motion.button 
-                onClick={() => window.open(`https://twitter.com/intent/tweet?url=${encodeURIComponent(window.location.origin + '/post/' + post.id.split('-').pop())}&text=${encodeURIComponent(post.title)}`, '_blank')}
+                onClick={() => window.open(`https://twitter.com/intent/tweet?url=${encodeURIComponent(window.location.origin + getPostUrl(post.id))}&text=${encodeURIComponent(post.title)}`, '_blank')}
                 className="w-9 h-9 flex items-center justify-center text-gray-400 hover:text-[#1DA1F2] hover:bg-blue-50 rounded-full transition-all"
                 whileHover={{ scale: 1.1 }}
                 whileTap={{ scale: 0.95 }}
@@ -183,7 +198,7 @@ const PostItem = ({ post, index }: { post: Post; index: number }) => {
                 <Twitter className="w-4 h-4" />
               </motion.button>
               <motion.button 
-                onClick={() => window.open(`https://www.facebook.com/sharer/sharer.php?u=${encodeURIComponent(window.location.origin + '/post/' + post.id.split('-').pop())}`, '_blank')}
+                onClick={() => window.open(`https://www.facebook.com/sharer/sharer.php?u=${encodeURIComponent(window.location.origin + getPostUrl(post.id))}`, '_blank')}
                 className="w-9 h-9 flex items-center justify-center text-gray-400 hover:text-[#4267B2] hover:bg-blue-50 rounded-full transition-all"
                 whileHover={{ scale: 1.1 }}
                 whileTap={{ scale: 0.95 }}
@@ -195,7 +210,7 @@ const PostItem = ({ post, index }: { post: Post; index: number }) => {
 
             {/* Read More */}
             <Link 
-              href={`/post/${post.id.split('-').pop()}`}
+              href={getPostUrl(post.id)}
               className="group/btn inline-flex items-center gap-2 px-6 py-2.5 text-sm font-bold rounded-full transition-all duration-300 shadow-sm hover:shadow-md btn-press"
               style={{ 
                 backgroundColor: 'white',
