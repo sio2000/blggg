@@ -17,6 +17,29 @@ interface PostListProps {
   posts: Post[];
 }
 
+// Generate unique key for post
+const getPostKey = (post: Post, index: number) => {
+  // Use combination of ID and index to ensure uniqueness
+  return `${post.id}-${index}`;
+};
+
+// Generate correct post URL based on ID format
+const getPostUrl = (postId: string) => {
+  // Handle different ID formats
+  if (postId.startsWith('article-')) {
+    // Database article format: article-timestamp-random
+    return `/post/${postId}`;
+  } else if (postId.includes('tag:blogger.com')) {
+    // Legacy blogger format: tag:blogger.com,1999:blog-...post-...
+    // Extract the post ID part after the last hyphen
+    const parts = postId.split('-');
+    return `/post/${parts[parts.length - 1]}`;
+  } else {
+    // Fallback
+    return `/post/${postId}`;
+  }
+};
+
 const PostItem = ({ post, index }: { post: Post; index: number }) => {
   const [mounted, setMounted] = React.useState(false);
 
@@ -37,22 +60,6 @@ const PostItem = ({ post, index }: { post: Post; index: number }) => {
     minute: '2-digit'
   }) : '';
 
-  // Generate correct post URL based on ID format
-  const getPostUrl = (postId: string) => {
-    // Handle different ID formats
-    if (postId.startsWith('article-')) {
-      // Database article format: article-timestamp-random
-      return `/post/${postId}`;
-    } else if (postId.includes('tag:blogger.com')) {
-      // Legacy blogger format: tag:blogger.com,1999:blog-...post-...
-      // Extract the post ID part after the last hyphen
-      const parts = postId.split('-');
-      return `/post/${parts[parts.length - 1]}`;
-    } else {
-      // Fallback
-      return `/post/${postId}`;
-    }
-  };
   const imgMatch = post.content.match(/<img.*?src="(.*?)"/);
   const thumbnailSrc = imgMatch ? imgMatch[1] : null;
 
@@ -237,7 +244,7 @@ const PostList = ({ posts }: PostListProps) => {
   return (
     <div className="space-y-8">
       {posts.map((post, index) => (
-        <PostItem key={post.id} post={post} index={index} />
+        <PostItem key={getPostKey(post, index)} post={post} index={index} />
       ))}
       
       {posts.length === 0 && (
