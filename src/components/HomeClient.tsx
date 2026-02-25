@@ -56,19 +56,16 @@ export default function HomeClient() {
     return () => { mounted = false };
   }, []);
 
+  // Show ALL legacy articles from content.json
   const legacyPosts = Array.isArray(content.posts)
-    ? content.posts.filter(
-        (p: any) => p.id === "tag:blogger.com,1999:blog-3066255942376026513.post-4582477378962155648"
-      )
+    ? content.posts
     : [];
 
-  // Filter articles by category - only show "Αρχική σελίδα" on homepage
-  const homeArticles = dbPosts.filter(
-    (article) => article.category === "Αρχική σελίδα"
-  );
+  // Show ALL articles from database (no category filter)
+  const allDbArticles = dbPosts;
 
   const allPosts = [
-    ...homeArticles.map(articleToPost),
+    ...allDbArticles.map(articleToPost),
     ...legacyPosts,
   ];
 
