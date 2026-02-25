@@ -13,7 +13,6 @@ const categoryNames: { [key: string]: string } = {
   articles: "Articles",
   "healthy-life-style": "Healthy Life Style",
   "syntagés-dýnamis": "Συνταγές Δύναμης",
-  "olistikí-efarmoghí": "Ολιστική Εφαρμογή",
   "sensitiv-imago": "Sensitiv Imago",
 };
 

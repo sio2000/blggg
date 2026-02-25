@@ -1,5 +1,5 @@
 ## Project Summary
-This project is a pixel-perfect clone of the "Well Being" blog (https://well-being.blogspot.com/), a health-focused blog specializing in Clinical Nutrition and holistic health applications. The design captures a classic blogger aesthetic with a DNA-themed banner, grey gradient navigation tabs, and a structured three-column layout.
+This project is a pixel-perfect clone of the "Well Being" blog (https://well-being.blogspot.com/), a health-focused blog specializing in holistic health applications. The design captures a classic blogger aesthetic with a DNA-themed banner, grey gradient navigation tabs, and a structured three-column layout.
 
 ## Tech Stack
 - Framework: Next.js (App Router)

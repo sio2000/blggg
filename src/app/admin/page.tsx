@@ -46,7 +46,6 @@ export default function AdminPage() {
     "Articles",
     "Healthy Life Style",
     "Συνταγές Δύναμης",
-    "Ολιστική Εφαρμογή",
     "Sensitiv Imago",
   ];
 

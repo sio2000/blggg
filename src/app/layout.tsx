@@ -5,9 +5,9 @@ import ErrorReporter from "@/components/ErrorReporter";
 import Script from "next/script";
 
 export const metadata: Metadata = {
-  title: "Well Being - Clinical Nutrition & Holistic Health",
-  description: "Ολιστική Προσέγγιση στη Διατροφή & Ευεξία. Σύμβουλος Κλινικής Διατροφολογίας και Ολιστικών Εφαρμογών.",
-  keywords: ["διατροφή", "υγεία", "ολιστική", "clinical nutrition", "diet coaching"],
+  title: "Well Being - Holistic Health",
+  description: "Ολιστική Προσέγγιση στη Διατροφή & Ευεξία.",
+  keywords: ["διατροφή", "υγεία", "ολιστική"],
 };
 
 export default function RootLayout({
