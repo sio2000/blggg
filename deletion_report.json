@@ -1,0 +1,13 @@
+{
+  "changes_made": [
+    {
+      "title": "Παραμείνετε λεπτοί χωρίς δίαιτα",
+      "id": "diet-web-20260227061729-7014",
+      "source_file": ".data/articles.json",
+      "action": "TEXT_DELETED",
+      "deleted_text": "edw hellas"
+    }
+  ],
+  "total_changes": 1,
+  "timestamp": "2025-02-27T06:25:00Z"
+}

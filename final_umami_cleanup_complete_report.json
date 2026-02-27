@@ -1,0 +1,48 @@
+{
+  "final_umami_cleanups": [
+    {
+      "title": "Umami  και…χάνουμε βάρος,  τρώγοντας περισσότερο !!!",
+      "id": "tag:blogger.com,1999:blog-3066255942376026513.post-610137475112843346",
+      "source_file": ".data/articles.json",
+      "action": "FINAL_CLEANUP",
+      "pattern": "Τακτικός.*?ανά.*?τρίμηνο.*?έλεγχος.*?κατάστασης.*?..."
+    },
+    {
+      "title": "Umami  και…χάνουμε βάρος,  τρώγοντας περισσότερο !!!",
+      "id": "tag:blogger.com,1999:blog-3066255942376026513.post-610137475112843346",
+      "source_file": ".data/articles.json",
+      "action": "FINAL_CLEANUP",
+      "pattern": "που\\s*αναφέρεται\\s*αποκλειστικά\\s*στο\\s*&nbsp;<b>\\..."
+    },
+    {
+      "title": "Umami  και…χάνουμε βάρος,  τρώγοντας περισσότερο !!!",
+      "id": "tag:blogger.com,1999:blog-3066255942376026513.post-610137475112843346",
+      "source_file": ".data/articles.json",
+      "action": "FINAL_CLEANUP",
+      "pattern": "<b>\\s*«\\s*»\\s*</b>"
+    },
+    {
+      "title": "Umami  και…χάνουμε βάρος,  τρώγοντας περισσότερο !!!",
+      "id": "tag:blogger.com,1999:blog-3066255942376026513.post-610137475112843346",
+      "source_file": "src/lib/content.json",
+      "action": "FINAL_CLEANUP",
+      "pattern": "Τακτικός.*?ανά.*?τρίμηνο.*?έλεγχος.*?κατάστασης.*?..."
+    },
+    {
+      "title": "Umami  και…χάνουμε βάρος,  τρώγοντας περισσότερο !!!",
+      "id": "tag:blogger.com,1999:blog-3066255942376026513.post-610137475112843346",
+      "source_file": "src/lib/content.json",
+      "action": "FINAL_CLEANUP",
+      "pattern": "που\\s*αναφέρεται\\s*αποκλειστικά\\s*στο\\s*&nbsp;<b>\\..."
+    },
+    {
+      "title": "Umami  και…χάνουμε βάρος,  τρώγοντας περισσότερο !!!",
+      "id": "tag:blogger.com,1999:blog-3066255942376026513.post-610137475112843346",
+      "source_file": "src/lib/content.json",
+      "action": "FINAL_CLEANUP",
+      "pattern": "<b>\\s*«\\s*»\\s*</b>"
+    }
+  ],
+  "total_cleanups": 6,
+  "timestamp": "2025-02-27T07:45:00Z"
+}

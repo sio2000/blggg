@@ -1,0 +1,20 @@
+{
+  "umami_cleanups": [
+    {
+      "title": "Umami  και…χάνουμε βάρος,  τρώγοντας περισσότερο !!!",
+      "id": "tag:blogger.com,1999:blog-3066255942376026513.post-610137475112843346",
+      "source_file": ".data/articles.json",
+      "action": "UMAMI_PATTERN_REMOVED",
+      "pattern": "Η\\s*μέθοδος\\s*είναι\\s*εξαιρετικά\\s*οικονομική,\\s*μ..."
+    },
+    {
+      "title": "Umami  και…χάνουμε βάρος,  τρώγοντας περισσότερο !!!",
+      "id": "tag:blogger.com,1999:blog-3066255942376026513.post-610137475112843346",
+      "source_file": "src/lib/content.json",
+      "action": "UMAMI_PATTERN_REMOVED",
+      "pattern": "Η\\s*μέθοδος\\s*είναι\\s*εξαιρετικά\\s*οικονομική,\\s*μ..."
+    }
+  ],
+  "total_cleanups": 2,
+  "timestamp": "2025-02-27T07:00:00Z"
+}

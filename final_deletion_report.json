@@ -1,0 +1,18 @@
+{
+  "complete_deletions": [
+    {
+      "title": "Τα άτομα με υψηλότερη μόρφωση  (ή ανώτερο πνευματικό επίπεδο) είναι ενήμερα για την Εναλλακτική Ιατρική",
+      "id": "tag:blogger.com,1999:blog-3066255942376026513.post-2176716904806202274",
+      "source_file": ".data/articles.json",
+      "action": "DELETED_COMPLETELY"
+    },
+    {
+      "title": "Τα άτομα με υψηλότερη μόρφωση  (ή ανώτερο πνευματικό επίπεδο) είναι ενήμερα για την Εναλλακτική Ιατρική",
+      "id": "tag:blogger.com,1999:blog-3066255942376026513.post-2176716904806202274",
+      "source_file": "src/lib/content.json",
+      "action": "DELETED_COMPLETELY"
+    }
+  ],
+  "total_deletions": 2,
+  "timestamp": "2025-02-27T06:40:00Z"
+}

@@ -1,0 +1,20 @@
+{
+  "precise_umami_deletions": [
+    {
+      "title": "Umami  και…χάνουμε βάρος,  τρώγοντας περισσότερο !!!",
+      "id": "tag:blogger.com,1999:blog-3066255942376026513.post-610137475112843346",
+      "source_file": ".data/articles.json",
+      "action": "LINE_DELETION",
+      "deleted_line": "Η μέθοδος είναι εξαιρετικά οικονομική, μη επεμβατι..."
+    },
+    {
+      "title": "Umami  και…χάνουμε βάρος,  τρώγοντας περισσότερο !!!",
+      "id": "tag:blogger.com,1999:blog-3066255942376026513.post-610137475112843346",
+      "source_file": "src/lib/content.json",
+      "action": "LINE_DELETION",
+      "deleted_line": "Η μέθοδος είναι εξαιρετικά οικονομική, μη επεμβατι..."
+    }
+  ],
+  "total_deletions": 2,
+  "timestamp": "2025-02-27T07:35:00Z"
+}

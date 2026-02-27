@@ -1,0 +1,160 @@
+{
+  "cleanup_remaining_forbidden": [
+    {
+      "title": "Κάθε μέρα είναι μια νέα ευκαιρία να χτίσουμε ένα νέο σώμα!  Ξεκινάμε ΣΗΜΕΡΑ !!!",
+      "id": "tag:blogger.com,1999:blog-3066255942376026513.post-6950736833746074132",
+      "source_file": ".data/articles.json",
+      "action": "FORBIDDEN_CLEANUP",
+      "pattern": "<b>\\s*&nbsp;\\s*</b>"
+    },
+    {
+      "title": "Κάθε μέρα είναι μια νέα ευκαιρία να χτίσουμε ένα νέο σώμα!  Ξεκινάμε ΣΗΜΕΡΑ !!!",
+      "id": "tag:blogger.com,1999:blog-3066255942376026513.post-6950736833746074132",
+      "source_file": ".data/articles.json",
+      "action": "FORBIDDEN_CLEANUP",
+      "pattern": "\\s*&nbsp;\\s*"
+    },
+    {
+      "title": "Φυσικά Αφροδισιακά για άνδρες και γυναίκες",
+      "id": "tag:blogger.com,1999:blog-3066255942376026513.post-4373383186751250433",
+      "source_file": ".data/articles.json",
+      "action": "FORBIDDEN_CLEANUP",
+      "pattern": "Τακτικός.*?ανά.*?τρίμηνο.*"
+    },
+    {
+      "title": "Φυσικά Αφροδισιακά για άνδρες και γυναίκες",
+      "id": "tag:blogger.com,1999:blog-3066255942376026513.post-4373383186751250433",
+      "source_file": ".data/articles.json",
+      "action": "FORBIDDEN_CLEANUP",
+      "pattern": "<b>\\s*&nbsp;\\s*</b>"
+    },
+    {
+      "title": "Φυσικά Αφροδισιακά για άνδρες και γυναίκες",
+      "id": "tag:blogger.com,1999:blog-3066255942376026513.post-4373383186751250433",
+      "source_file": ".data/articles.json",
+      "action": "FORBIDDEN_CLEANUP",
+      "pattern": "\\s*&nbsp;\\s*"
+    },
+    {
+      "title": "Umami  και…χάνουμε βάρος,  τρώγοντας περισσότερο !!!",
+      "id": "tag:blogger.com,1999:blog-3066255942376026513.post-610137475112843346",
+      "source_file": ".data/articles.json",
+      "action": "FORBIDDEN_CLEANUP",
+      "pattern": "Κατερίνα\\s*Μηστριώτη"
+    },
+    {
+      "title": "Umami  και…χάνουμε βάρος,  τρώγοντας περισσότερο !!!",
+      "id": "tag:blogger.com,1999:blog-3066255942376026513.post-610137475112843346",
+      "source_file": ".data/articles.json",
+      "action": "FORBIDDEN_CLEANUP",
+      "pattern": "\\s*&nbsp;\\s*"
+    },
+    {
+      "title": "Κάνοντας Δίαιτα…. παχαίνετε !!!!",
+      "id": "tag:blogger.com,1999:blog-3066255942376026513.post-4841918018733742659",
+      "source_file": ".data/articles.json",
+      "action": "FORBIDDEN_CLEANUP",
+      "pattern": "\\s*&nbsp;\\s*"
+    },
+    {
+      "title": "Κάθε μέρα είναι μια νέα ευκαιρία να χτίσουμε ένα νέο σώμα!  Ξεκινάμε ΣΗΜΕΡΑ !!!",
+      "id": "tag:blogger.com,1999:blog-3066255942376026513.post-6950736833746074132",
+      "source_file": "src/lib/content.json",
+      "action": "FORBIDDEN_CLEANUP",
+      "pattern": "Κατερίνα\\s*Μηστριώτη"
+    },
+    {
+      "title": "Κάθε μέρα είναι μια νέα ευκαιρία να χτίσουμε ένα νέο σώμα!  Ξεκινάμε ΣΗΜΕΡΑ !!!",
+      "id": "tag:blogger.com,1999:blog-3066255942376026513.post-6950736833746074132",
+      "source_file": "src/lib/content.json",
+      "action": "FORBIDDEN_CLEANUP",
+      "pattern": "<b>\\s*&nbsp;\\s*</b>"
+    },
+    {
+      "title": "Κάθε μέρα είναι μια νέα ευκαιρία να χτίσουμε ένα νέο σώμα!  Ξεκινάμε ΣΗΜΕΡΑ !!!",
+      "id": "tag:blogger.com,1999:blog-3066255942376026513.post-6950736833746074132",
+      "source_file": "src/lib/content.json",
+      "action": "FORBIDDEN_CLEANUP",
+      "pattern": "\\s*&nbsp;\\s*"
+    },
+    {
+      "title": "Φυσικά Αφροδισιακά για άνδρες και γυναίκες",
+      "id": "tag:blogger.com,1999:blog-3066255942376026513.post-4373383186751250433",
+      "source_file": "src/lib/content.json",
+      "action": "FORBIDDEN_CLEANUP",
+      "pattern": "Κατερίνα\\s*Μηστριώτη"
+    },
+    {
+      "title": "Φυσικά Αφροδισιακά για άνδρες και γυναίκες",
+      "id": "tag:blogger.com,1999:blog-3066255942376026513.post-4373383186751250433",
+      "source_file": "src/lib/content.json",
+      "action": "FORBIDDEN_CLEANUP",
+      "pattern": "Τεχνολογία\\s*Βιοσυντονισμού"
+    },
+    {
+      "title": "Φυσικά Αφροδισιακά για άνδρες και γυναίκες",
+      "id": "tag:blogger.com,1999:blog-3066255942376026513.post-4373383186751250433",
+      "source_file": "src/lib/content.json",
+      "action": "FORBIDDEN_CLEANUP",
+      "pattern": "Sensitiv\\s*Imago"
+    },
+    {
+      "title": "Φυσικά Αφροδισιακά για άνδρες και γυναίκες",
+      "id": "tag:blogger.com,1999:blog-3066255942376026513.post-4373383186751250433",
+      "source_file": "src/lib/content.json",
+      "action": "FORBIDDEN_CLEANUP",
+      "pattern": "60\\s*–\\s*90\\s*λεπτά\\s*της\\s*ώρας"
+    },
+    {
+      "title": "Φυσικά Αφροδισιακά για άνδρες και γυναίκες",
+      "id": "tag:blogger.com,1999:blog-3066255942376026513.post-4373383186751250433",
+      "source_file": "src/lib/content.json",
+      "action": "FORBIDDEN_CLEANUP",
+      "pattern": "Τακτικός.*?ανά.*?τρίμηνο.*"
+    },
+    {
+      "title": "Φυσικά Αφροδισιακά για άνδρες και γυναίκες",
+      "id": "tag:blogger.com,1999:blog-3066255942376026513.post-4373383186751250433",
+      "source_file": "src/lib/content.json",
+      "action": "FORBIDDEN_CLEANUP",
+      "pattern": "<b>\\s*&nbsp;\\s*</b>"
+    },
+    {
+      "title": "Φυσικά Αφροδισιακά για άνδρες και γυναίκες",
+      "id": "tag:blogger.com,1999:blog-3066255942376026513.post-4373383186751250433",
+      "source_file": "src/lib/content.json",
+      "action": "FORBIDDEN_CLEANUP",
+      "pattern": "\\s*&nbsp;\\s*"
+    },
+    {
+      "title": "Umami  και…χάνουμε βάρος,  τρώγοντας περισσότερο !!!",
+      "id": "tag:blogger.com,1999:blog-3066255942376026513.post-610137475112843346",
+      "source_file": "src/lib/content.json",
+      "action": "FORBIDDEN_CLEANUP",
+      "pattern": "Κατερίνα\\s*Μηστριώτη"
+    },
+    {
+      "title": "Umami  και…χάνουμε βάρος,  τρώγοντας περισσότερο !!!",
+      "id": "tag:blogger.com,1999:blog-3066255942376026513.post-610137475112843346",
+      "source_file": "src/lib/content.json",
+      "action": "FORBIDDEN_CLEANUP",
+      "pattern": "\\s*&nbsp;\\s*"
+    },
+    {
+      "title": "Κάνοντας Δίαιτα…. παχαίνετε !!!!",
+      "id": "tag:blogger.com,1999:blog-3066255942376026513.post-4841918018733742659",
+      "source_file": "src/lib/content.json",
+      "action": "FORBIDDEN_CLEANUP",
+      "pattern": "Κατερίνα\\s*Μηστριώτη"
+    },
+    {
+      "title": "Κάνοντας Δίαιτα…. παχαίνετε !!!!",
+      "id": "tag:blogger.com,1999:blog-3066255942376026513.post-4841918018733742659",
+      "source_file": "src/lib/content.json",
+      "action": "FORBIDDEN_CLEANUP",
+      "pattern": "\\s*&nbsp;\\s*"
+    }
+  ],
+  "total_cleanups": 22,
+  "timestamp": "2025-02-27T07:50:00Z"
+}

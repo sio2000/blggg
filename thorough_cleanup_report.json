@@ -1,0 +1,1140 @@
+{
+  "fragment_cleanups": [
+    {
+      "title": "Μήπως δεν εκτίθεστε όσο πρέπει;",
+      "id": "tag:blogger.com,1999:blog-3066255942376026513.post-4582477378962155648",
+      "source_file": ".data/articles.json",
+      "action": "FRAGMENT_CLEANED",
+      "pattern": "\\s*</div>\\s*<div"
+    },
+    {
+      "title": "Ίδιες οι πιθανότητες καλής υγείας του νεογέννητου από μικρές και μεγαλύτερες μανούλες!",
+      "id": "tag:blogger.com,1999:blog-3066255942376026513.post-2427683729454228638",
+      "source_file": ".data/articles.json",
+      "action": "FRAGMENT_CLEANED",
+      "pattern": "\\s*</div>\\s*<div"
+    },
+    {
+      "title": "Πρησμένα πόδια;  Ποιος μπορεί να είναι ο λόγος;",
+      "id": "tag:blogger.com,1999:blog-3066255942376026513.post-4281743912337085989",
+      "source_file": ".data/articles.json",
+      "action": "FRAGMENT_CLEANED",
+      "pattern": "\\s*</div>\\s*<div"
+    },
+    {
+      "title": "Χειμώνας -  Ρεβύθια και Χούμους !!! Γκουρμέ επιλογές για όλους!!!",
+      "id": "tag:blogger.com,1999:blog-3066255942376026513.post-2812387171228889725",
+      "source_file": ".data/articles.json",
+      "action": "FRAGMENT_CLEANED",
+      "pattern": "\\s*</div>\\s*<div"
+    },
+    {
+      "title": "«Well Being Κατερίνα Μηστριώτη»",
+      "id": "tag:blogger.com,1999:blog-3066255942376026513.post-7635473872439631015",
+      "source_file": ".data/articles.json",
+      "action": "FRAGMENT_CLEANED",
+      "pattern": "\\s*</div>\\s*<div"
+    },
+    {
+      "title": "Υψηλότερα επίπεδα σωματικής δραστηριότητας -  σε οποιαδήποτε ένταση - και λιγότερος χρόνος καθιστικής ζωής, συνδέονται με σημαντικά μειωμένο κίνδυνο πρόωρης θνησιμότητας σε μεσήλικες και ηλικιωμένους!!",
+      "id": "tag:blogger.com,1999:blog-3066255942376026513.post-2893269075044012152",
+      "source_file": ".data/articles.json",
+      "action": "FRAGMENT_CLEANED",
+      "pattern": "\\s*</div>\\s*<div"
+    },
+    {
+      "title": "Εάν τρώτε ΜΗ βιολογικό κρέας κοτόπουλου… Ψάξτε λίγο παραπάνω !!",
+      "id": "tag:blogger.com,1999:blog-3066255942376026513.post-1506248847261973230",
+      "source_file": ".data/articles.json",
+      "action": "FRAGMENT_CLEANED",
+      "pattern": "\\s*</div>\\s*<div"
+    },
+    {
+      "title": "Μήπως ξεχνάτε πού αφήσατε τα κλειδιά ή το κινητό σας;",
+      "id": "tag:blogger.com,1999:blog-3066255942376026513.post-7008497006847820241",
+      "source_file": ".data/articles.json",
+      "action": "FRAGMENT_CLEANED",
+      "pattern": "\\s*</div>\\s*<div"
+    },
+    {
+      "title": "Η Τέλεια εποχή για αποτοξίνωση του πεπτικού/εντερικού συστήματος. Φρέσκος χυμός με  Μήλο, Λεμόνι & Τζίντζερ",
+      "id": "tag:blogger.com,1999:blog-3066255942376026513.post-5001713304334025186",
+      "source_file": ".data/articles.json",
+      "action": "FRAGMENT_CLEANED",
+      "pattern": "\\s*</div>\\s*<div"
+    },
+    {
+      "title": "Κάθε μέρα είναι μια νέα ευκαιρία να χτίσουμε ένα νέο σώμα!  Ξεκινάμε ΣΗΜΕΡΑ !!!",
+      "id": "tag:blogger.com,1999:blog-3066255942376026513.post-6950736833746074132",
+      "source_file": ".data/articles.json",
+      "action": "FRAGMENT_CLEANED",
+      "pattern": "\\s*</div>\\s*<div"
+    },
+    {
+      "title": "Όχι άλλες ενοχές !!! Υπέροχη, Πανεύκολη, Δροσερή, Γευστική, Γρήγορη και….. Αθώα Τάρτα Φρούτων με Γιαούρτι… χωρίς ψήσιμο!",
+      "id": "tag:blogger.com,1999:blog-3066255942376026513.post-4157725687704580597",
+      "source_file": ".data/articles.json",
+      "action": "FRAGMENT_CLEANED",
+      "pattern": "\\s*</div>\\s*<div"
+    },
+    {
+      "title": "Εύκολα  «Αναψυκτικά»  από τα χεράκια σας για δροσιά, ενυδάτωση, υποστήριξη του οργανισμού και εξισορρόπηση  της θερμοκρασίας του σώματός σας !!!",
+      "id": "tag:blogger.com,1999:blog-3066255942376026513.post-3730085338635154643",
+      "source_file": ".data/articles.json",
+      "action": "FRAGMENT_CLEANED",
+      "pattern": "\\s*</div>\\s*<div"
+    },
+    {
+      "title": "Καλοκαίρι….Ζέστη…    τι τρώμε ;;;;",
+      "id": "tag:blogger.com,1999:blog-3066255942376026513.post-4621390683629805037",
+      "source_file": ".data/articles.json",
+      "action": "FRAGMENT_CLEANED",
+      "pattern": "\\s*</div>\\s*<div"
+    },
+    {
+      "title": "Μπανάνα - το υπέροχο σνακ των 100 θερμίδων και πότε είναι ο σωστός χρόνος να φάμε μια μπανάνα!",
+      "id": "tag:blogger.com,1999:blog-3066255942376026513.post-9129230848308607244",
+      "source_file": ".data/articles.json",
+      "action": "FRAGMENT_CLEANED",
+      "pattern": "\\s*</div>\\s*<div"
+    },
+    {
+      "title": "Εύκολες Συνταγές Αποτοξίνωσης !!",
+      "id": "tag:blogger.com,1999:blog-3066255942376026513.post-276402290995478871",
+      "source_file": ".data/articles.json",
+      "action": "FRAGMENT_CLEANED",
+      "pattern": "\\s*</div>\\s*<div"
+    },
+    {
+      "title": "Απώλεια βάρους με χυμό φρέσκου λεμονιού σε χλιαρό νερό κάθε πρωί !!!",
+      "id": "tag:blogger.com,1999:blog-3066255942376026513.post-1183357440049962404",
+      "source_file": ".data/articles.json",
+      "action": "FRAGMENT_CLEANED",
+      "pattern": "\\s*</div>\\s*<div"
+    },
+    {
+      "title": "Αντί για γλυκό…..",
+      "id": "tag:blogger.com,1999:blog-3066255942376026513.post-4627765168975232190",
+      "source_file": ".data/articles.json",
+      "action": "FRAGMENT_CLEANED",
+      "pattern": "\\s*</div>\\s*<div"
+    },
+    {
+      "title": "Η υπέροχη μουσική των Marconi Union στο  «Weightless » επιστημονικά μειώνει το άγχος!!!",
+      "id": "tag:blogger.com,1999:blog-3066255942376026513.post-6106009977447255402",
+      "source_file": ".data/articles.json",
+      "action": "FRAGMENT_CLEANED",
+      "pattern": "\\s*</div>\\s*<div"
+    },
+    {
+      "title": "Φαγητό ή τσιμπολόγημα αργά το βράδυ σίγουρα παχαίνει αλλά επίσης θα μπορούσε να προκαλέσει σοβαρές διαταραχές στον μαστό και στον προστάτη!",
+      "id": "tag:blogger.com,1999:blog-3066255942376026513.post-2725076964360979104",
+      "source_file": ".data/articles.json",
+      "action": "FRAGMENT_CLEANED",
+      "pattern": "\\s*</div>\\s*<div"
+    },
+    {
+      "title": "Συμβουλές υγείας για τις Γιορτές",
+      "id": "tag:blogger.com,1999:blog-3066255942376026513.post-558410710914395715",
+      "source_file": ".data/articles.json",
+      "action": "FRAGMENT_CLEANED",
+      "pattern": "\\s*</div>\\s*<div"
+    },
+    {
+      "title": "Μειώνουμε την επιθυμία για παχυντικά φαγητά τρώγοντας… υπέροχες φακές!!!!",
+      "id": "tag:blogger.com,1999:blog-3066255942376026513.post-4752257603156356858",
+      "source_file": ".data/articles.json",
+      "action": "FRAGMENT_CLEANED",
+      "pattern": "\\s*</div>\\s*<div"
+    },
+    {
+      "title": "Προβιοτικά και Οστική απώλεια στους ηλικιωμένους",
+      "id": "tag:blogger.com,1999:blog-3066255942376026513.post-6529397983365094572",
+      "source_file": ".data/articles.json",
+      "action": "FRAGMENT_CLEANED",
+      "pattern": "\\s*</div>\\s*<div"
+    },
+    {
+      "title": "Είσαι πολύ γλυκιά όπως είσαι!!   ΜΗ προσθέτεις ζάχαρη και κυρίως  Τεχνητές Γλυκαντικές ουσίες!!!",
+      "id": "tag:blogger.com,1999:blog-3066255942376026513.post-8475320285303221274",
+      "source_file": ".data/articles.json",
+      "action": "FRAGMENT_CLEANED",
+      "pattern": "\\s*</div>\\s*<div"
+    },
+    {
+      "title": "Και λόγω των ημερών ας  θυμηθούμε:   «Η αγάπη μειώνει τον πόνο»",
+      "id": "tag:blogger.com,1999:blog-3066255942376026513.post-2560062573149779231",
+      "source_file": ".data/articles.json",
+      "action": "FRAGMENT_CLEANED",
+      "pattern": "\\s*</div>\\s*<div"
+    },
+    {
+      "title": "Καρκινικά κύτταρα στον οισοφάγο;  Ο Ψευδάργυρος μπορεί να σταματήσει την ανάπτυξή τους !",
+      "id": "tag:blogger.com,1999:blog-3066255942376026513.post-2933441890988890230",
+      "source_file": ".data/articles.json",
+      "action": "FRAGMENT_CLEANED",
+      "pattern": "\\s*</div>\\s*<div"
+    },
+    {
+      "title": "Φυσικά Αφροδισιακά για άνδρες και γυναίκες",
+      "id": "tag:blogger.com,1999:blog-3066255942376026513.post-4373383186751250433",
+      "source_file": ".data/articles.json",
+      "action": "FRAGMENT_CLEANED",
+      "pattern": "\\s*</div>\\s*<div"
+    },
+    {
+      "title": "Umami  και…χάνουμε βάρος,  τρώγοντας περισσότερο !!!",
+      "id": "tag:blogger.com,1999:blog-3066255942376026513.post-610137475112843346",
+      "source_file": ".data/articles.json",
+      "action": "FRAGMENT_CLEANED",
+      "pattern": "\\s*</div>\\s*<div"
+    },
+    {
+      "title": "Και κάτι εύκολο! Καλύτερη καρδιακή λειτουργία εάν κόψετε μόνον 21 λεπτά από τον χρόνο που είστε καθισμένοι  στην διάρκεια της ημέρας !!",
+      "id": "tag:blogger.com,1999:blog-3066255942376026513.post-9157614198860657791",
+      "source_file": ".data/articles.json",
+      "action": "FRAGMENT_CLEANED",
+      "pattern": "\\s*</div>\\s*<div"
+    },
+    {
+      "title": "Καρδιακά προβλήματα,  Διαβήτης τύπου 2,  Υψηλή Αρτηριακή πίεση; Μήπως  ευθύνονται και οι Χημικές ουσίες στις συσκευασίες των τροφίμων;",
+      "id": "tag:blogger.com,1999:blog-3066255942376026513.post-3227802036044242141",
+      "source_file": ".data/articles.json",
+      "action": "FRAGMENT_CLEANED",
+      "pattern": "\\s*</div>\\s*<div"
+    },
+    {
+      "title": "Αφυδάτωση: Προσοχή στα παιδιά και τους εφήβους ιδιαιτέρως τώρα την εποχή των εξετάσεων!!",
+      "id": "tag:blogger.com,1999:blog-3066255942376026513.post-1623673610220431439",
+      "source_file": ".data/articles.json",
+      "action": "FRAGMENT_CLEANED",
+      "pattern": "\\s*</div>\\s*<div"
+    },
+    {
+      "title": "Δεν σκοπεύω να γεράσω γρήγορα και έχω τον τρόπο !!!",
+      "id": "tag:blogger.com,1999:blog-3066255942376026513.post-4905148018103934533",
+      "source_file": ".data/articles.json",
+      "action": "FRAGMENT_CLEANED",
+      "pattern": "\\s*</div>\\s*<div"
+    },
+    {
+      "title": "Επιτέλους και κάτι εύκολο!  Γυμναστική με τη Σκέψη!",
+      "id": "tag:blogger.com,1999:blog-3066255942376026513.post-811828078078504714",
+      "source_file": ".data/articles.json",
+      "action": "FRAGMENT_CLEANED",
+      "pattern": "\\s*</div>\\s*<div"
+    },
+    {
+      "title": "Ηλεκτρονικά τσιγάρα: Εξίσου επικίνδυνα με τα συμβατικά αλλά χρήσιμα στο μεταβατικό στάδιο !",
+      "id": "tag:blogger.com,1999:blog-3066255942376026513.post-8364460090034163222",
+      "source_file": ".data/articles.json",
+      "action": "FRAGMENT_CLEANED",
+      "pattern": "\\s*</div>\\s*<div"
+    },
+    {
+      "title": "Οι χημικές ενώσεις του Κόκκινου κρασιού επιβραδύνουν την πρόοδο του Αλτσχάιμερ και της Άνοιας.",
+      "id": "tag:blogger.com,1999:blog-3066255942376026513.post-4699930687444527916",
+      "source_file": ".data/articles.json",
+      "action": "FRAGMENT_CLEANED",
+      "pattern": "\\s*</div>\\s*<div"
+    },
+    {
+      "title": "Είστε γυναίκα; Τρώτε λιγότερο κρέας για να έχετε μικρότερο κίνδυνο καρδιακής ανεπάρκειας!!!",
+      "id": "tag:blogger.com,1999:blog-3066255942376026513.post-7021279176643850776",
+      "source_file": ".data/articles.json",
+      "action": "FRAGMENT_CLEANED",
+      "pattern": "\\s*</div>\\s*<div"
+    },
+    {
+      "title": "Η σεροτονίνη φέρνει ευτυχία κι επιτυχία",
+      "id": "diet-web-20260227061724-9889",
+      "source_file": ".data/articles.json",
+      "action": "FRAGMENT_CLEANED",
+      "pattern": "δημοσιεύτηκε στο.*?\\.?"
+    },
+    {
+      "title": "Η σεροτονίνη φέρνει ευτυχία κι επιτυχία",
+      "id": "diet-web-20260227061724-9889",
+      "source_file": ".data/articles.json",
+      "action": "FRAGMENT_CLEANED",
+      "pattern": "\\*\\*\\*"
+    },
+    {
+      "title": "Η σεροτονίνη φέρνει ευτυχία κι επιτυχία",
+      "id": "diet-web-20260227061724-9889",
+      "source_file": ".data/articles.json",
+      "action": "FRAGMENT_CLEANED",
+      "pattern": "\\s+"
+    },
+    {
+      "title": "Η σεροτονίνη φέρνει ευτυχία κι επιτυχία",
+      "id": "diet-web-20260227061724-9889",
+      "source_file": ".data/articles.json",
+      "action": "FRAGMENT_CLEANED",
+      "pattern": "\\s*<br/>\\s*<br/>\\s*"
+    },
+    {
+      "title": "Η σεροτονίνη φέρνει ευτυχία κι επιτυχία",
+      "id": "diet-web-20260227061724-9889",
+      "source_file": ".data/articles.json",
+      "action": "FRAGMENT_CLEANED",
+      "pattern": "\\s*</div>\\s*<div"
+    },
+    {
+      "title": "Φρούτα, τα οφέλη και οι αντιθέσεις τους",
+      "id": "diet-web-20260227061726-370",
+      "source_file": ".data/articles.json",
+      "action": "FRAGMENT_CLEANED",
+      "pattern": "10πμ-19μμ"
+    },
+    {
+      "title": "Φρούτα, τα οφέλη και οι αντιθέσεις τους",
+      "id": "diet-web-20260227061726-370",
+      "source_file": ".data/articles.json",
+      "action": "FRAGMENT_CLEANED",
+      "pattern": "Επικοινώνησε μαζί μου.*?\\.?"
+    },
+    {
+      "title": "Φρούτα, τα οφέλη και οι αντιθέσεις τους",
+      "id": "diet-web-20260227061726-370",
+      "source_file": ".data/articles.json",
+      "action": "FRAGMENT_CLEANED",
+      "pattern": "\\*\\*\\*"
+    },
+    {
+      "title": "Φρούτα, τα οφέλη και οι αντιθέσεις τους",
+      "id": "diet-web-20260227061726-370",
+      "source_file": ".data/articles.json",
+      "action": "FRAGMENT_CLEANED",
+      "pattern": "\\s+"
+    },
+    {
+      "title": "Φρούτα, τα οφέλη και οι αντιθέσεις τους",
+      "id": "diet-web-20260227061726-370",
+      "source_file": ".data/articles.json",
+      "action": "FRAGMENT_CLEANED",
+      "pattern": "\\s*<br/>\\s*<br/>\\s*"
+    },
+    {
+      "title": "Φρούτα, τα οφέλη και οι αντιθέσεις τους",
+      "id": "diet-web-20260227061726-370",
+      "source_file": ".data/articles.json",
+      "action": "FRAGMENT_CLEANED",
+      "pattern": "\\s*</div>\\s*<div"
+    },
+    {
+      "title": "Λεπτίνη, η ορμόνη ρυθμιστής της Ενέργειας",
+      "id": "diet-web-20260227061727-4307",
+      "source_file": ".data/articles.json",
+      "action": "FRAGMENT_CLEANED",
+      "pattern": "\\s*<br/>\\s*<br/>\\s*"
+    },
+    {
+      "title": "Παραμείνετε λεπτοί χωρίς δίαιτα",
+      "id": "diet-web-20260227061729-7014",
+      "source_file": ".data/articles.json",
+      "action": "FRAGMENT_CLEANED",
+      "pattern": "\\s*<br/>\\s*<br/>\\s*"
+    },
+    {
+      "title": "Παραμείνετε λεπτοί χωρίς δίαιτα",
+      "id": "diet-web-20260227061729-7014",
+      "source_file": ".data/articles.json",
+      "action": "FRAGMENT_CLEANED",
+      "pattern": "\\s*</div>\\s*<div"
+    },
+    {
+      "title": "Βιολογικά Προϊόντα Μύθοι και Αλήθειες",
+      "id": "diet-web-20260227061730-3417",
+      "source_file": ".data/articles.json",
+      "action": "FRAGMENT_CLEANED",
+      "pattern": "\\*\\*\\*"
+    },
+    {
+      "title": "Βιολογικά Προϊόντα Μύθοι και Αλήθειες",
+      "id": "diet-web-20260227061730-3417",
+      "source_file": ".data/articles.json",
+      "action": "FRAGMENT_CLEANED",
+      "pattern": "\\s*<br/>\\s*<br/>\\s*"
+    },
+    {
+      "title": "Βιολογικά Προϊόντα Μύθοι και Αλήθειες",
+      "id": "diet-web-20260227061730-3417",
+      "source_file": ".data/articles.json",
+      "action": "FRAGMENT_CLEANED",
+      "pattern": "\\s*</div>\\s*<div"
+    },
+    {
+      "title": "4 μικρά μυστικά και χάνετε 2-4 κιλά",
+      "id": "diet-web-20260227061732-4092",
+      "source_file": ".data/articles.json",
+      "action": "FRAGMENT_CLEANED",
+      "pattern": "\\*\\*\\*"
+    },
+    {
+      "title": "4 μικρά μυστικά και χάνετε 2-4 κιλά",
+      "id": "diet-web-20260227061732-4092",
+      "source_file": ".data/articles.json",
+      "action": "FRAGMENT_CLEANED",
+      "pattern": "\\s+"
+    },
+    {
+      "title": "4 μικρά μυστικά και χάνετε 2-4 κιλά",
+      "id": "diet-web-20260227061732-4092",
+      "source_file": ".data/articles.json",
+      "action": "FRAGMENT_CLEANED",
+      "pattern": "\\s*<br/>\\s*<br/>\\s*"
+    },
+    {
+      "title": "4 μικρά μυστικά και χάνετε 2-4 κιλά",
+      "id": "diet-web-20260227061732-4092",
+      "source_file": ".data/articles.json",
+      "action": "FRAGMENT_CLEANED",
+      "pattern": "\\s*</div>\\s*<div"
+    },
+    {
+      "title": "Το πάχος ξεκινά και ρυθμίζεται από τον εγκέφαλο",
+      "id": "diet-web-20260227061733-7293",
+      "source_file": ".data/articles.json",
+      "action": "FRAGMENT_CLEANED",
+      "pattern": "\\s*<br/>\\s*<br/>\\s*"
+    },
+    {
+      "title": "Το πάχος ξεκινά και ρυθμίζεται από τον εγκέφαλο",
+      "id": "diet-web-20260227061733-7293",
+      "source_file": ".data/articles.json",
+      "action": "FRAGMENT_CLEANED",
+      "pattern": "\\s*</div>\\s*<div"
+    },
+    {
+      "title": "Τροφές που μπλοκάρουν την απώλεια κιλών",
+      "id": "diet-web-20260227061735-8901",
+      "source_file": ".data/articles.json",
+      "action": "FRAGMENT_CLEANED",
+      "pattern": "Σύμβουλος Ολιστικών Εφαρμογών"
+    },
+    {
+      "title": "Τροφές που μπλοκάρουν την απώλεια κιλών",
+      "id": "diet-web-20260227061735-8901",
+      "source_file": ".data/articles.json",
+      "action": "FRAGMENT_CLEANED",
+      "pattern": "\\*\\*\\*"
+    },
+    {
+      "title": "Τροφές που μπλοκάρουν την απώλεια κιλών",
+      "id": "diet-web-20260227061735-8901",
+      "source_file": ".data/articles.json",
+      "action": "FRAGMENT_CLEANED",
+      "pattern": "\\s*<br/>\\s*<br/>\\s*"
+    },
+    {
+      "title": "Τροφές που μπλοκάρουν την απώλεια κιλών",
+      "id": "diet-web-20260227061735-8901",
+      "source_file": ".data/articles.json",
+      "action": "FRAGMENT_CLEANED",
+      "pattern": "\\s*</div>\\s*<div"
+    },
+    {
+      "title": "Αδυνατείστε με υδατάνθρακες",
+      "id": "diet-web-20260227061737-2344",
+      "source_file": ".data/articles.json",
+      "action": "FRAGMENT_CLEANED",
+      "pattern": "\\*\\*\\*"
+    },
+    {
+      "title": "Αδυνατείστε με υδατάνθρακες",
+      "id": "diet-web-20260227061737-2344",
+      "source_file": ".data/articles.json",
+      "action": "FRAGMENT_CLEANED",
+      "pattern": "\\s+"
+    },
+    {
+      "title": "Αδυνατείστε με υδατάνθρακες",
+      "id": "diet-web-20260227061737-2344",
+      "source_file": ".data/articles.json",
+      "action": "FRAGMENT_CLEANED",
+      "pattern": "\\s*<br/>\\s*<br/>\\s*"
+    },
+    {
+      "title": "Αδυνατείστε με υδατάνθρακες",
+      "id": "diet-web-20260227061737-2344",
+      "source_file": ".data/articles.json",
+      "action": "FRAGMENT_CLEANED",
+      "pattern": "\\s*</div>\\s*<div"
+    },
+    {
+      "title": "Μαγγάνιο το πολύτιμο μέταλλο",
+      "id": "diet-web-20260227061738-2618",
+      "source_file": ".data/articles.json",
+      "action": "FRAGMENT_CLEANED",
+      "pattern": "\\s*<br/>\\s*<br/>\\s*"
+    },
+    {
+      "title": "Μαγγάνιο το πολύτιμο μέταλλο",
+      "id": "diet-web-20260227061738-2618",
+      "source_file": ".data/articles.json",
+      "action": "FRAGMENT_CLEANED",
+      "pattern": "\\s*</div>\\s*<div"
+    },
+    {
+      "title": "Η Διατροφή κατα της γρίπης",
+      "id": "diet-web-20260227061740-6430",
+      "source_file": ".data/articles.json",
+      "action": "FRAGMENT_CLEANED",
+      "pattern": "σύμβουλος κλινικής διατροφολογίας"
+    },
+    {
+      "title": "Η Διατροφή κατα της γρίπης",
+      "id": "diet-web-20260227061740-6430",
+      "source_file": ".data/articles.json",
+      "action": "FRAGMENT_CLEANED",
+      "pattern": "Επικοινώνησε μαζί μου.*?\\.?"
+    },
+    {
+      "title": "Η Διατροφή κατα της γρίπης",
+      "id": "diet-web-20260227061740-6430",
+      "source_file": ".data/articles.json",
+      "action": "FRAGMENT_CLEANED",
+      "pattern": "\\s+"
+    },
+    {
+      "title": "Η Διατροφή κατα της γρίπης",
+      "id": "diet-web-20260227061740-6430",
+      "source_file": ".data/articles.json",
+      "action": "FRAGMENT_CLEANED",
+      "pattern": "\\s*<br/>\\s*<br/>\\s*"
+    },
+    {
+      "title": "Η Διατροφή κατα της γρίπης",
+      "id": "diet-web-20260227061740-6430",
+      "source_file": ".data/articles.json",
+      "action": "FRAGMENT_CLEANED",
+      "pattern": "\\s*</div>\\s*<div"
+    },
+    {
+      "title": "Ωμέγα-3 Λιπαρά οξέα και …αποφεύγετε πρόωρο τοκετό και χαμηλού βάρους νεογέννητο!!",
+      "id": "tag:blogger.com,1999:blog-3066255942376026513.post-7621015832941768624",
+      "source_file": ".data/articles.json",
+      "action": "FRAGMENT_CLEANED",
+      "pattern": "\\s*</div>\\s*<div"
+    },
+    {
+      "title": "Μήπως  ξεχνάτε;  Μήπως να ξεκινήσετε να παίρνετε Ωμέγα-3 Λιπαρά οξέα;",
+      "id": "tag:blogger.com,1999:blog-3066255942376026513.post-4767886586851250952",
+      "source_file": ".data/articles.json",
+      "action": "FRAGMENT_CLEANED",
+      "pattern": "\\s*</div>\\s*<div"
+    },
+    {
+      "title": "Ένας στους έξη καρκίνους του μαστού δεν εμφανίζεται με όγκο.",
+      "id": "tag:blogger.com,1999:blog-3066255942376026513.post-4063364274754576500",
+      "source_file": ".data/articles.json",
+      "action": "FRAGMENT_CLEANED",
+      "pattern": "\\s*</div>\\s*<div"
+    },
+    {
+      "title": "Η Μέντα και η Κανέλλα είναι αποτελεσματικές στην θεραπεία πληγών",
+      "id": "tag:blogger.com,1999:blog-3066255942376026513.post-4262931836828879684",
+      "source_file": ".data/articles.json",
+      "action": "FRAGMENT_CLEANED",
+      "pattern": "\\s*</div>\\s*<div"
+    },
+    {
+      "title": "Διανοητικά ακμαίοι μεγαλώνοντας !   Προσθέστε Κουρκουμά στο πρωινό σας !",
+      "id": "tag:blogger.com,1999:blog-3066255942376026513.post-2058076022226730492",
+      "source_file": ".data/articles.json",
+      "action": "FRAGMENT_CLEANED",
+      "pattern": "\\s*</div>\\s*<div"
+    },
+    {
+      "title": "Χημικές ουσίες σε αρώματα και λακ αποτελούν αιτία πρόωρης εμμηνόπαυσης",
+      "id": "tag:blogger.com,1999:blog-3066255942376026513.post-9177129234690957998",
+      "source_file": ".data/articles.json",
+      "action": "FRAGMENT_CLEANED",
+      "pattern": "\\s*</div>\\s*<div"
+    },
+    {
+      "title": "Η Βιταμίνη D  θα μπορούσε να είναι το κλειδί για την θεραπεία της νόσου του Crohn",
+      "id": "tag:blogger.com,1999:blog-3066255942376026513.post-8793864753637724505",
+      "source_file": ".data/articles.json",
+      "action": "FRAGMENT_CLEANED",
+      "pattern": "\\s*</div>\\s*<div"
+    },
+    {
+      "title": "Η έλλειψη ηλιοφάνειας και Βιταμίνης D αυξάνει τον κίνδυνο καρκίνου του παγκρέατος",
+      "id": "tag:blogger.com,1999:blog-3066255942376026513.post-6848409084161175267",
+      "source_file": ".data/articles.json",
+      "action": "FRAGMENT_CLEANED",
+      "pattern": "\\s*</div>\\s*<div"
+    },
+    {
+      "title": "Μην πηγαίνετε για κολύμπι φορώντας φακούς επαφής!",
+      "id": "tag:blogger.com,1999:blog-3066255942376026513.post-3337417963302724280",
+      "source_file": ".data/articles.json",
+      "action": "FRAGMENT_CLEANED",
+      "pattern": "\\s*</div>\\s*<div"
+    },
+    {
+      "title": "Χάστε βάρος και συμπληρώστε Βιταμίνη D στον οργανισμό σας, για να μειώσετε τον κίνδυνο εμφάνισης εκφυλιστικών ασθενειών",
+      "id": "tag:blogger.com,1999:blog-3066255942376026513.post-1673664105359539101",
+      "source_file": ".data/articles.json",
+      "action": "FRAGMENT_CLEANED",
+      "pattern": "\\s*</div>\\s*<div"
+    },
+    {
+      "title": "Σας ευχαριστώ για τις 60.478 προβολές της Σελίδας μου!!",
+      "id": "tag:blogger.com,1999:blog-3066255942376026513.post-8795191919512329085",
+      "source_file": ".data/articles.json",
+      "action": "FRAGMENT_CLEANED",
+      "pattern": "\\s*</div>\\s*<div"
+    },
+    {
+      "title": "Οι προειδοποιήσεις αποφυγής της  ηλιοθεραπείας  είναι επικίνδυνες για την υγεία!",
+      "id": "tag:blogger.com,1999:blog-3066255942376026513.post-8061138478481850791",
+      "source_file": ".data/articles.json",
+      "action": "FRAGMENT_CLEANED",
+      "pattern": "\\s*</div>\\s*<div"
+    },
+    {
+      "title": "Κάνοντας Δίαιτα…. παχαίνετε !!!!",
+      "id": "tag:blogger.com,1999:blog-3066255942376026513.post-4841918018733742659",
+      "source_file": ".data/articles.json",
+      "action": "FRAGMENT_CLEANED",
+      "pattern": "\\s*</div>\\s*<div"
+    },
+    {
+      "title": "Τα Φυτικά Ωμέγα-3 είναι εξίσου καλά για τον ανθρώπινο οργανισμό, όσο και τα προερχόμενα από ψάρια",
+      "id": "tag:blogger.com,1999:blog-3066255942376026513.post-1432766421233722749",
+      "source_file": ".data/articles.json",
+      "action": "FRAGMENT_CLEANED",
+      "pattern": "\\s*</div>\\s*<div"
+    },
+    {
+      "title": "«Well Being   Κατερίνα Μηστριώτη»   Η μεγαλύτερη ευλογία:  Υγεία και Ζωτικότητα",
+      "id": "tag:blogger.com,1999:blog-3066255942376026513.post-6672181567743920828",
+      "source_file": ".data/articles.json",
+      "action": "FRAGMENT_CLEANED",
+      "pattern": "\\s*</div>\\s*<div"
+    },
+    {
+      "title": "Ένα μήλο την ημέρα….. βοηθά στην καταπολέμηση της παχυσαρκίας",
+      "id": "tag:blogger.com,1999:blog-3066255942376026513.post-5865503384080070810",
+      "source_file": ".data/articles.json",
+      "action": "FRAGMENT_CLEANED",
+      "pattern": "\\s*</div>\\s*<div"
+    },
+    {
+      "title": "Γιατί τα φρέσκα φρούτα και τα λαχανικά είναι τόσο σημαντικά για την καλή υγεία",
+      "id": "tag:blogger.com,1999:blog-3066255942376026513.post-8903635423190093162",
+      "source_file": ".data/articles.json",
+      "action": "FRAGMENT_CLEANED",
+      "pattern": "\\s*</div>\\s*<div"
+    },
+    {
+      "title": "Ο Ψευδάργυρος (Zinc) σκοτώνει τα βακτήρια της πνευμονίας και της μηνιγγίτιδας",
+      "id": "tag:blogger.com,1999:blog-3066255942376026513.post-6177374287978016345",
+      "source_file": ".data/articles.json",
+      "action": "FRAGMENT_CLEANED",
+      "pattern": "\\s*</div>\\s*<div"
+    },
+    {
+      "title": "Το ελαιόλαδο βοηθά μια ταλαιπωρημένη καρδιά",
+      "id": "tag:blogger.com,1999:blog-3066255942376026513.post-4658069541867353980",
+      "source_file": ".data/articles.json",
+      "action": "FRAGMENT_CLEANED",
+      "pattern": "\\s*</div>\\s*<div"
+    },
+    {
+      "title": "Τα πλαστικά μπουκάλια εκλύουν χημικές ουσίες στο εμφιαλωμένο νερό",
+      "id": "tag:blogger.com,1999:blog-3066255942376026513.post-3720083900949725510",
+      "source_file": ".data/articles.json",
+      "action": "FRAGMENT_CLEANED",
+      "pattern": "\\s*</div>\\s*<div"
+    },
+    {
+      "title": "",
+      "id": "tag:blogger.com,1999:blog-3066255942376026513.post-8469035029303844304",
+      "source_file": ".data/articles.json",
+      "action": "FRAGMENT_CLEANED",
+      "pattern": "\\s*</div>\\s*<div"
+    },
+    {
+      "title": "Ανησυχείτε για την άνοια;  Σταθείτε στο ένα πόδι για 20 δευτερόλεπτα",
+      "id": "tag:blogger.com,1999:blog-3066255942376026513.post-7246534979454142748",
+      "source_file": ".data/articles.json",
+      "action": "FRAGMENT_CLEANED",
+      "pattern": "\\s*</div>\\s*<div"
+    },
+    {
+      "title": "Χαμηλά επίπεδα της «Βιταμίνης του ήλιου» είναι η άμεση αιτία της υψηλής πίεσης του αίματος",
+      "id": "tag:blogger.com,1999:blog-3066255942376026513.post-5150121247548774165",
+      "source_file": ".data/articles.json",
+      "action": "FRAGMENT_CLEANED",
+      "pattern": "\\s*</div>\\s*<div"
+    },
+    {
+      "title": "Το σωσίβιο είναι επικίνδυνο",
+      "id": "tag:blogger.com,1999:blog-3066255942376026513.post-3803042502883505873",
+      "source_file": ".data/articles.json",
+      "action": "FRAGMENT_CLEANED",
+      "pattern": "edw\\s*hellas"
+    },
+    {
+      "title": "Μέθοδος SENSITIV IMAGO",
+      "id": "tag:blogger.com,1999:blog-3066255942376026513.post-6791378506968446708",
+      "source_file": ".data/articles.json",
+      "action": "FRAGMENT_CLEANED",
+      "pattern": "μέθοδος.*?Sensitiv.*?\\.?"
+    },
+    {
+      "title": "Μέθοδος SENSITIV IMAGO",
+      "id": "tag:blogger.com,1999:blog-3066255942376026513.post-6791378506968446708",
+      "source_file": ".data/articles.json",
+      "action": "FRAGMENT_CLEANED",
+      "pattern": "\\*\\*\\*"
+    },
+    {
+      "title": "Μέθοδος SENSITIV IMAGO",
+      "id": "tag:blogger.com,1999:blog-3066255942376026513.post-6791378506968446708",
+      "source_file": ".data/articles.json",
+      "action": "FRAGMENT_CLEANED",
+      "pattern": "\\s*</div>\\s*<div"
+    },
+    {
+      "title": "Μήπως δεν εκτίθεστε όσο πρέπει;",
+      "id": "tag:blogger.com,1999:blog-3066255942376026513.post-4582477378962155648",
+      "source_file": "src/lib/content.json",
+      "action": "FRAGMENT_CLEANED",
+      "pattern": "\\s*</div>\\s*<div"
+    },
+    {
+      "title": "Ίδιες οι πιθανότητες καλής υγείας του νεογέννητου από μικρές και μεγαλύτερες μανούλες!",
+      "id": "tag:blogger.com,1999:blog-3066255942376026513.post-2427683729454228638",
+      "source_file": "src/lib/content.json",
+      "action": "FRAGMENT_CLEANED",
+      "pattern": "\\s*</div>\\s*<div"
+    },
+    {
+      "title": "Πρησμένα πόδια;  Ποιος μπορεί να είναι ο λόγος;",
+      "id": "tag:blogger.com,1999:blog-3066255942376026513.post-4281743912337085989",
+      "source_file": "src/lib/content.json",
+      "action": "FRAGMENT_CLEANED",
+      "pattern": "\\s*</div>\\s*<div"
+    },
+    {
+      "title": "Χειμώνας -  Ρεβύθια και Χούμους !!! Γκουρμέ επιλογές για όλους!!!",
+      "id": "tag:blogger.com,1999:blog-3066255942376026513.post-2812387171228889725",
+      "source_file": "src/lib/content.json",
+      "action": "FRAGMENT_CLEANED",
+      "pattern": "\\s*</div>\\s*<div"
+    },
+    {
+      "title": "«Well Being Κατερίνα Μηστριώτη»",
+      "id": "tag:blogger.com,1999:blog-3066255942376026513.post-7635473872439631015",
+      "source_file": "src/lib/content.json",
+      "action": "FRAGMENT_CLEANED",
+      "pattern": "\\s*</div>\\s*<div"
+    },
+    {
+      "title": "Υψηλότερα επίπεδα σωματικής δραστηριότητας -  σε οποιαδήποτε ένταση - και λιγότερος χρόνος καθιστικής ζωής, συνδέονται με σημαντικά μειωμένο κίνδυνο πρόωρης θνησιμότητας σε μεσήλικες και ηλικιωμένους!!",
+      "id": "tag:blogger.com,1999:blog-3066255942376026513.post-2893269075044012152",
+      "source_file": "src/lib/content.json",
+      "action": "FRAGMENT_CLEANED",
+      "pattern": "\\s*</div>\\s*<div"
+    },
+    {
+      "title": "Εάν τρώτε ΜΗ βιολογικό κρέας κοτόπουλου… Ψάξτε λίγο παραπάνω !!",
+      "id": "tag:blogger.com,1999:blog-3066255942376026513.post-1506248847261973230",
+      "source_file": "src/lib/content.json",
+      "action": "FRAGMENT_CLEANED",
+      "pattern": "\\s*</div>\\s*<div"
+    },
+    {
+      "title": "Μήπως ξεχνάτε πού αφήσατε τα κλειδιά ή το κινητό σας;",
+      "id": "tag:blogger.com,1999:blog-3066255942376026513.post-7008497006847820241",
+      "source_file": "src/lib/content.json",
+      "action": "FRAGMENT_CLEANED",
+      "pattern": "\\s*</div>\\s*<div"
+    },
+    {
+      "title": "Η Τέλεια εποχή για αποτοξίνωση του πεπτικού/εντερικού συστήματος. Φρέσκος χυμός με  Μήλο, Λεμόνι & Τζίντζερ",
+      "id": "tag:blogger.com,1999:blog-3066255942376026513.post-5001713304334025186",
+      "source_file": "src/lib/content.json",
+      "action": "FRAGMENT_CLEANED",
+      "pattern": "\\s*</div>\\s*<div"
+    },
+    {
+      "title": "Κάθε μέρα είναι μια νέα ευκαιρία να χτίσουμε ένα νέο σώμα!  Ξεκινάμε ΣΗΜΕΡΑ !!!",
+      "id": "tag:blogger.com,1999:blog-3066255942376026513.post-6950736833746074132",
+      "source_file": "src/lib/content.json",
+      "action": "FRAGMENT_CLEANED",
+      "pattern": "\\s*</div>\\s*<div"
+    },
+    {
+      "title": "Όχι άλλες ενοχές !!! Υπέροχη, Πανεύκολη, Δροσερή, Γευστική, Γρήγορη και….. Αθώα Τάρτα Φρούτων με Γιαούρτι… χωρίς ψήσιμο!",
+      "id": "tag:blogger.com,1999:blog-3066255942376026513.post-4157725687704580597",
+      "source_file": "src/lib/content.json",
+      "action": "FRAGMENT_CLEANED",
+      "pattern": "\\s*</div>\\s*<div"
+    },
+    {
+      "title": "Εύκολα  «Αναψυκτικά»  από τα χεράκια σας για δροσιά, ενυδάτωση, υποστήριξη του οργανισμού και εξισορρόπηση  της θερμοκρασίας του σώματός σας !!!",
+      "id": "tag:blogger.com,1999:blog-3066255942376026513.post-3730085338635154643",
+      "source_file": "src/lib/content.json",
+      "action": "FRAGMENT_CLEANED",
+      "pattern": "\\s*</div>\\s*<div"
+    },
+    {
+      "title": "Καλοκαίρι….Ζέστη…    τι τρώμε ;;;;",
+      "id": "tag:blogger.com,1999:blog-3066255942376026513.post-4621390683629805037",
+      "source_file": "src/lib/content.json",
+      "action": "FRAGMENT_CLEANED",
+      "pattern": "\\s*</div>\\s*<div"
+    },
+    {
+      "title": "Μπανάνα - το υπέροχο σνακ των 100 θερμίδων και πότε είναι ο σωστός χρόνος να φάμε μια μπανάνα!",
+      "id": "tag:blogger.com,1999:blog-3066255942376026513.post-9129230848308607244",
+      "source_file": "src/lib/content.json",
+      "action": "FRAGMENT_CLEANED",
+      "pattern": "\\s*</div>\\s*<div"
+    },
+    {
+      "title": "Εύκολες Συνταγές Αποτοξίνωσης !!",
+      "id": "tag:blogger.com,1999:blog-3066255942376026513.post-276402290995478871",
+      "source_file": "src/lib/content.json",
+      "action": "FRAGMENT_CLEANED",
+      "pattern": "\\s*</div>\\s*<div"
+    },
+    {
+      "title": "Απώλεια βάρους με χυμό φρέσκου λεμονιού σε χλιαρό νερό κάθε πρωί !!!",
+      "id": "tag:blogger.com,1999:blog-3066255942376026513.post-1183357440049962404",
+      "source_file": "src/lib/content.json",
+      "action": "FRAGMENT_CLEANED",
+      "pattern": "\\s*</div>\\s*<div"
+    },
+    {
+      "title": "Αντί για γλυκό…..",
+      "id": "tag:blogger.com,1999:blog-3066255942376026513.post-4627765168975232190",
+      "source_file": "src/lib/content.json",
+      "action": "FRAGMENT_CLEANED",
+      "pattern": "\\s*</div>\\s*<div"
+    },
+    {
+      "title": "Η υπέροχη μουσική των Marconi Union στο  «Weightless » επιστημονικά μειώνει το άγχος!!!",
+      "id": "tag:blogger.com,1999:blog-3066255942376026513.post-6106009977447255402",
+      "source_file": "src/lib/content.json",
+      "action": "FRAGMENT_CLEANED",
+      "pattern": "\\s*</div>\\s*<div"
+    },
+    {
+      "title": "Φαγητό ή τσιμπολόγημα αργά το βράδυ σίγουρα παχαίνει αλλά επίσης θα μπορούσε να προκαλέσει σοβαρές διαταραχές στον μαστό και στον προστάτη!",
+      "id": "tag:blogger.com,1999:blog-3066255942376026513.post-2725076964360979104",
+      "source_file": "src/lib/content.json",
+      "action": "FRAGMENT_CLEANED",
+      "pattern": "\\s*</div>\\s*<div"
+    },
+    {
+      "title": "Συμβουλές υγείας για τις Γιορτές",
+      "id": "tag:blogger.com,1999:blog-3066255942376026513.post-558410710914395715",
+      "source_file": "src/lib/content.json",
+      "action": "FRAGMENT_CLEANED",
+      "pattern": "\\s*</div>\\s*<div"
+    },
+    {
+      "title": "Μειώνουμε την επιθυμία για παχυντικά φαγητά τρώγοντας… υπέροχες φακές!!!!",
+      "id": "tag:blogger.com,1999:blog-3066255942376026513.post-4752257603156356858",
+      "source_file": "src/lib/content.json",
+      "action": "FRAGMENT_CLEANED",
+      "pattern": "\\s*</div>\\s*<div"
+    },
+    {
+      "title": "Προβιοτικά και Οστική απώλεια στους ηλικιωμένους",
+      "id": "tag:blogger.com,1999:blog-3066255942376026513.post-6529397983365094572",
+      "source_file": "src/lib/content.json",
+      "action": "FRAGMENT_CLEANED",
+      "pattern": "\\s*</div>\\s*<div"
+    },
+    {
+      "title": "Είσαι πολύ γλυκιά όπως είσαι!!   ΜΗ προσθέτεις ζάχαρη και κυρίως  Τεχνητές Γλυκαντικές ουσίες!!!",
+      "id": "tag:blogger.com,1999:blog-3066255942376026513.post-8475320285303221274",
+      "source_file": "src/lib/content.json",
+      "action": "FRAGMENT_CLEANED",
+      "pattern": "\\s*</div>\\s*<div"
+    },
+    {
+      "title": "Και λόγω των ημερών ας  θυμηθούμε:   «Η αγάπη μειώνει τον πόνο»",
+      "id": "tag:blogger.com,1999:blog-3066255942376026513.post-2560062573149779231",
+      "source_file": "src/lib/content.json",
+      "action": "FRAGMENT_CLEANED",
+      "pattern": "\\s*</div>\\s*<div"
+    },
+    {
+      "title": "Καρκινικά κύτταρα στον οισοφάγο;  Ο Ψευδάργυρος μπορεί να σταματήσει την ανάπτυξή τους !",
+      "id": "tag:blogger.com,1999:blog-3066255942376026513.post-2933441890988890230",
+      "source_file": "src/lib/content.json",
+      "action": "FRAGMENT_CLEANED",
+      "pattern": "\\s*</div>\\s*<div"
+    },
+    {
+      "title": "Φυσικά Αφροδισιακά για άνδρες και γυναίκες",
+      "id": "tag:blogger.com,1999:blog-3066255942376026513.post-4373383186751250433",
+      "source_file": "src/lib/content.json",
+      "action": "FRAGMENT_CLEANED",
+      "pattern": "\\s*</div>\\s*<div"
+    },
+    {
+      "title": "Umami  και…χάνουμε βάρος,  τρώγοντας περισσότερο !!!",
+      "id": "tag:blogger.com,1999:blog-3066255942376026513.post-610137475112843346",
+      "source_file": "src/lib/content.json",
+      "action": "FRAGMENT_CLEANED",
+      "pattern": "\\s*</div>\\s*<div"
+    },
+    {
+      "title": "Και κάτι εύκολο! Καλύτερη καρδιακή λειτουργία εάν κόψετε μόνον 21 λεπτά από τον χρόνο που είστε καθισμένοι  στην διάρκεια της ημέρας !!",
+      "id": "tag:blogger.com,1999:blog-3066255942376026513.post-9157614198860657791",
+      "source_file": "src/lib/content.json",
+      "action": "FRAGMENT_CLEANED",
+      "pattern": "\\s*</div>\\s*<div"
+    },
+    {
+      "title": "Καρδιακά προβλήματα,  Διαβήτης τύπου 2,  Υψηλή Αρτηριακή πίεση; Μήπως  ευθύνονται και οι Χημικές ουσίες στις συσκευασίες των τροφίμων;",
+      "id": "tag:blogger.com,1999:blog-3066255942376026513.post-3227802036044242141",
+      "source_file": "src/lib/content.json",
+      "action": "FRAGMENT_CLEANED",
+      "pattern": "\\s*</div>\\s*<div"
+    },
+    {
+      "title": "Αφυδάτωση: Προσοχή στα παιδιά και τους εφήβους ιδιαιτέρως τώρα την εποχή των εξετάσεων!!",
+      "id": "tag:blogger.com,1999:blog-3066255942376026513.post-1623673610220431439",
+      "source_file": "src/lib/content.json",
+      "action": "FRAGMENT_CLEANED",
+      "pattern": "\\s*</div>\\s*<div"
+    },
+    {
+      "title": "Δεν σκοπεύω να γεράσω γρήγορα και έχω τον τρόπο !!!",
+      "id": "tag:blogger.com,1999:blog-3066255942376026513.post-4905148018103934533",
+      "source_file": "src/lib/content.json",
+      "action": "FRAGMENT_CLEANED",
+      "pattern": "\\s*</div>\\s*<div"
+    },
+    {
+      "title": "Επιτέλους και κάτι εύκολο!  Γυμναστική με τη Σκέψη!",
+      "id": "tag:blogger.com,1999:blog-3066255942376026513.post-811828078078504714",
+      "source_file": "src/lib/content.json",
+      "action": "FRAGMENT_CLEANED",
+      "pattern": "\\s*</div>\\s*<div"
+    },
+    {
+      "title": "Ηλεκτρονικά τσιγάρα: Εξίσου επικίνδυνα με τα συμβατικά αλλά χρήσιμα στο μεταβατικό στάδιο !",
+      "id": "tag:blogger.com,1999:blog-3066255942376026513.post-8364460090034163222",
+      "source_file": "src/lib/content.json",
+      "action": "FRAGMENT_CLEANED",
+      "pattern": "\\s*</div>\\s*<div"
+    },
+    {
+      "title": "Οι χημικές ενώσεις του Κόκκινου κρασιού επιβραδύνουν την πρόοδο του Αλτσχάιμερ και της Άνοιας.",
+      "id": "tag:blogger.com,1999:blog-3066255942376026513.post-4699930687444527916",
+      "source_file": "src/lib/content.json",
+      "action": "FRAGMENT_CLEANED",
+      "pattern": "\\s*</div>\\s*<div"
+    },
+    {
+      "title": "Είστε γυναίκα; Τρώτε λιγότερο κρέας για να έχετε μικρότερο κίνδυνο καρδιακής ανεπάρκειας!!!",
+      "id": "tag:blogger.com,1999:blog-3066255942376026513.post-7021279176643850776",
+      "source_file": "src/lib/content.json",
+      "action": "FRAGMENT_CLEANED",
+      "pattern": "\\s*</div>\\s*<div"
+    },
+    {
+      "title": "Ωμέγα-3 Λιπαρά οξέα και …αποφεύγετε πρόωρο τοκετό και χαμηλού βάρους νεογέννητο!!",
+      "id": "tag:blogger.com,1999:blog-3066255942376026513.post-7621015832941768624",
+      "source_file": "src/lib/content.json",
+      "action": "FRAGMENT_CLEANED",
+      "pattern": "\\s*</div>\\s*<div"
+    },
+    {
+      "title": "Μήπως  ξεχνάτε;  Μήπως να ξεκινήσετε να παίρνετε Ωμέγα-3 Λιπαρά οξέα;",
+      "id": "tag:blogger.com,1999:blog-3066255942376026513.post-4767886586851250952",
+      "source_file": "src/lib/content.json",
+      "action": "FRAGMENT_CLEANED",
+      "pattern": "\\s*</div>\\s*<div"
+    },
+    {
+      "title": "Ένας στους έξη καρκίνους του μαστού δεν εμφανίζεται με όγκο.",
+      "id": "tag:blogger.com,1999:blog-3066255942376026513.post-4063364274754576500",
+      "source_file": "src/lib/content.json",
+      "action": "FRAGMENT_CLEANED",
+      "pattern": "\\s*</div>\\s*<div"
+    },
+    {
+      "title": "Η Μέντα και η Κανέλλα είναι αποτελεσματικές στην θεραπεία πληγών",
+      "id": "tag:blogger.com,1999:blog-3066255942376026513.post-4262931836828879684",
+      "source_file": "src/lib/content.json",
+      "action": "FRAGMENT_CLEANED",
+      "pattern": "\\s*</div>\\s*<div"
+    },
+    {
+      "title": "Διανοητικά ακμαίοι μεγαλώνοντας !   Προσθέστε Κουρκουμά στο πρωινό σας !",
+      "id": "tag:blogger.com,1999:blog-3066255942376026513.post-2058076022226730492",
+      "source_file": "src/lib/content.json",
+      "action": "FRAGMENT_CLEANED",
+      "pattern": "\\s*</div>\\s*<div"
+    },
+    {
+      "title": "Χημικές ουσίες σε αρώματα και λακ αποτελούν αιτία πρόωρης εμμηνόπαυσης",
+      "id": "tag:blogger.com,1999:blog-3066255942376026513.post-9177129234690957998",
+      "source_file": "src/lib/content.json",
+      "action": "FRAGMENT_CLEANED",
+      "pattern": "\\s*</div>\\s*<div"
+    },
+    {
+      "title": "Η Βιταμίνη D  θα μπορούσε να είναι το κλειδί για την θεραπεία της νόσου του Crohn",
+      "id": "tag:blogger.com,1999:blog-3066255942376026513.post-8793864753637724505",
+      "source_file": "src/lib/content.json",
+      "action": "FRAGMENT_CLEANED",
+      "pattern": "\\s*</div>\\s*<div"
+    },
+    {
+      "title": "Η έλλειψη ηλιοφάνειας και Βιταμίνης D αυξάνει τον κίνδυνο καρκίνου του παγκρέατος",
+      "id": "tag:blogger.com,1999:blog-3066255942376026513.post-6848409084161175267",
+      "source_file": "src/lib/content.json",
+      "action": "FRAGMENT_CLEANED",
+      "pattern": "\\s*</div>\\s*<div"
+    },
+    {
+      "title": "Μην πηγαίνετε για κολύμπι φορώντας φακούς επαφής!",
+      "id": "tag:blogger.com,1999:blog-3066255942376026513.post-3337417963302724280",
+      "source_file": "src/lib/content.json",
+      "action": "FRAGMENT_CLEANED",
+      "pattern": "\\s*</div>\\s*<div"
+    },
+    {
+      "title": "Χάστε βάρος και συμπληρώστε Βιταμίνη D στον οργανισμό σας, για να μειώσετε τον κίνδυνο εμφάνισης εκφυλιστικών ασθενειών",
+      "id": "tag:blogger.com,1999:blog-3066255942376026513.post-1673664105359539101",
+      "source_file": "src/lib/content.json",
+      "action": "FRAGMENT_CLEANED",
+      "pattern": "\\s*</div>\\s*<div"
+    },
+    {
+      "title": "Σας ευχαριστώ για τις 60.478 προβολές της Σελίδας μου!!",
+      "id": "tag:blogger.com,1999:blog-3066255942376026513.post-8795191919512329085",
+      "source_file": "src/lib/content.json",
+      "action": "FRAGMENT_CLEANED",
+      "pattern": "\\s*</div>\\s*<div"
+    },
+    {
+      "title": "Οι προειδοποιήσεις αποφυγής της  ηλιοθεραπείας  είναι επικίνδυνες για την υγεία!",
+      "id": "tag:blogger.com,1999:blog-3066255942376026513.post-8061138478481850791",
+      "source_file": "src/lib/content.json",
+      "action": "FRAGMENT_CLEANED",
+      "pattern": "\\s*</div>\\s*<div"
+    },
+    {
+      "title": "Κάνοντας Δίαιτα…. παχαίνετε !!!!",
+      "id": "tag:blogger.com,1999:blog-3066255942376026513.post-4841918018733742659",
+      "source_file": "src/lib/content.json",
+      "action": "FRAGMENT_CLEANED",
+      "pattern": "\\s*</div>\\s*<div"
+    },
+    {
+      "title": "Τα Φυτικά Ωμέγα-3 είναι εξίσου καλά για τον ανθρώπινο οργανισμό, όσο και τα προερχόμενα από ψάρια",
+      "id": "tag:blogger.com,1999:blog-3066255942376026513.post-1432766421233722749",
+      "source_file": "src/lib/content.json",
+      "action": "FRAGMENT_CLEANED",
+      "pattern": "\\s*</div>\\s*<div"
+    },
+    {
+      "title": "«Well Being   Κατερίνα Μηστριώτη»   Η μεγαλύτερη ευλογία:  Υγεία και Ζωτικότητα",
+      "id": "tag:blogger.com,1999:blog-3066255942376026513.post-6672181567743920828",
+      "source_file": "src/lib/content.json",
+      "action": "FRAGMENT_CLEANED",
+      "pattern": "\\s*</div>\\s*<div"
+    },
+    {
+      "title": "Ένα μήλο την ημέρα….. βοηθά στην καταπολέμηση της παχυσαρκίας",
+      "id": "tag:blogger.com,1999:blog-3066255942376026513.post-5865503384080070810",
+      "source_file": "src/lib/content.json",
+      "action": "FRAGMENT_CLEANED",
+      "pattern": "\\s*</div>\\s*<div"
+    },
+    {
+      "title": "Γιατί τα φρέσκα φρούτα και τα λαχανικά είναι τόσο σημαντικά για την καλή υγεία",
+      "id": "tag:blogger.com,1999:blog-3066255942376026513.post-8903635423190093162",
+      "source_file": "src/lib/content.json",
+      "action": "FRAGMENT_CLEANED",
+      "pattern": "\\s*</div>\\s*<div"
+    },
+    {
+      "title": "Ο Ψευδάργυρος (Zinc) σκοτώνει τα βακτήρια της πνευμονίας και της μηνιγγίτιδας",
+      "id": "tag:blogger.com,1999:blog-3066255942376026513.post-6177374287978016345",
+      "source_file": "src/lib/content.json",
+      "action": "FRAGMENT_CLEANED",
+      "pattern": "\\s*</div>\\s*<div"
+    },
+    {
+      "title": "Το ελαιόλαδο βοηθά μια ταλαιπωρημένη καρδιά",
+      "id": "tag:blogger.com,1999:blog-3066255942376026513.post-4658069541867353980",
+      "source_file": "src/lib/content.json",
+      "action": "FRAGMENT_CLEANED",
+      "pattern": "\\s*</div>\\s*<div"
+    },
+    {
+      "title": "Τα πλαστικά μπουκάλια εκλύουν χημικές ουσίες στο εμφιαλωμένο νερό",
+      "id": "tag:blogger.com,1999:blog-3066255942376026513.post-3720083900949725510",
+      "source_file": "src/lib/content.json",
+      "action": "FRAGMENT_CLEANED",
+      "pattern": "\\s*</div>\\s*<div"
+    },
+    {
+      "title": "",
+      "id": "tag:blogger.com,1999:blog-3066255942376026513.post-8469035029303844304",
+      "source_file": "src/lib/content.json",
+      "action": "FRAGMENT_CLEANED",
+      "pattern": "\\s*</div>\\s*<div"
+    },
+    {
+      "title": "Ανησυχείτε για την άνοια;  Σταθείτε στο ένα πόδι για 20 δευτερόλεπτα",
+      "id": "tag:blogger.com,1999:blog-3066255942376026513.post-7246534979454142748",
+      "source_file": "src/lib/content.json",
+      "action": "FRAGMENT_CLEANED",
+      "pattern": "\\s*</div>\\s*<div"
+    },
+    {
+      "title": "Χαμηλά επίπεδα της «Βιταμίνης του ήλιου» είναι η άμεση αιτία της υψηλής πίεσης του αίματος",
+      "id": "tag:blogger.com,1999:blog-3066255942376026513.post-5150121247548774165",
+      "source_file": "src/lib/content.json",
+      "action": "FRAGMENT_CLEANED",
+      "pattern": "\\s*</div>\\s*<div"
+    },
+    {
+      "title": "Το σωσίβιο είναι επικίνδυνο",
+      "id": "tag:blogger.com,1999:blog-3066255942376026513.post-3803042502883505873",
+      "source_file": "src/lib/content.json",
+      "action": "FRAGMENT_CLEANED",
+      "pattern": "edw\\s*hellas"
+    },
+    {
+      "title": "Μέθοδος SENSITIV IMAGO",
+      "id": "tag:blogger.com,1999:blog-3066255942376026513.post-6791378506968446708",
+      "source_file": "src/lib/content.json",
+      "action": "FRAGMENT_CLEANED",
+      "pattern": "μέθοδος.*?Sensitiv.*?\\.?"
+    },
+    {
+      "title": "Μέθοδος SENSITIV IMAGO",
+      "id": "tag:blogger.com,1999:blog-3066255942376026513.post-6791378506968446708",
+      "source_file": "src/lib/content.json",
+      "action": "FRAGMENT_CLEANED",
+      "pattern": "\\*\\*\\*"
+    },
+    {
+      "title": "Μέθοδος SENSITIV IMAGO",
+      "id": "tag:blogger.com,1999:blog-3066255942376026513.post-6791378506968446708",
+      "source_file": "src/lib/content.json",
+      "action": "FRAGMENT_CLEANED",
+      "pattern": "\\s*</div>\\s*<div"
+    }
+  ],
+  "total_cleanups": 162,
+  "timestamp": "2025-02-27T06:55:00Z"
+}

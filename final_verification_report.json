@@ -1,0 +1,48 @@
+{
+  "verification_timestamp": "2025-02-27T06:45:00Z",
+  "total_articles": 155,
+  "database_articles": 83,
+  "legacy_articles": 72,
+  "articles_with_remaining_patterns": 0,
+  "html_structure_issues": 9,
+  "verification_results": [],
+  "html_issues": [
+    {
+      "title": "Χειμώνας -  Ρεβύθια και Χούμους !!! Γκουρμέ επιλογές για όλους!!!",
+      "issue": "Unmatched div tags: -2"
+    },
+    {
+      "title": "Καρκινικά κύτταρα στον οισοφάγο;  Ο Ψευδάργυρος μπορεί να σταματήσει την ανάπτυξή τους !",
+      "issue": "Unmatched div tags: 1"
+    },
+    {
+      "title": "Umami  και…χάνουμε βάρος,  τρώγοντας περισσότερο !!!",
+      "issue": "Unmatched div tags: -1"
+    },
+    {
+      "title": "Λεπτίνη, η ορμόνη ρυθμιστής της Ενέργειας",
+      "issue": "Unmatched div tags: 2"
+    },
+    {
+      "title": "Μέθοδος SENSITIV IMAGO",
+      "issue": "Unmatched div tags: -1"
+    },
+    {
+      "title": "Χειμώνας -  Ρεβύθια και Χούμους !!! Γκουρμέ επιλογές για όλους!!!",
+      "issue": "Unmatched div tags: -2"
+    },
+    {
+      "title": "Καρκινικά κύτταρα στον οισοφάγο;  Ο Ψευδάργυρος μπορεί να σταματήσει την ανάπτυξή τους !",
+      "issue": "Unmatched div tags: 1"
+    },
+    {
+      "title": "Umami  και…χάνουμε βάρος,  τρώγοντας περισσότερο !!!",
+      "issue": "Unmatched div tags: -1"
+    },
+    {
+      "title": "Μέθοδος SENSITIV IMAGO",
+      "issue": "Unmatched div tags: -1"
+    }
+  ],
+  "status": "NEEDS_REVIEW"
+}

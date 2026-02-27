@@ -1,0 +1,48 @@
+{
+  "complete_umami_deletions": [
+    {
+      "title": "Umami  και…χάνουμε βάρος,  τρώγοντας περισσότερο !!!",
+      "id": "tag:blogger.com,1999:blog-3066255942376026513.post-610137475112843346",
+      "source_file": ".data/articles.json",
+      "action": "PATTERN_DELETED",
+      "pattern": "«Sensitiv\\s*Imago»\\s*\\."
+    },
+    {
+      "title": "Umami  και…χάνουμε βάρος,  τρώγοντας περισσότερο !!!",
+      "id": "tag:blogger.com,1999:blog-3066255942376026513.post-610137475112843346",
+      "source_file": ".data/articles.json",
+      "action": "PATTERN_DELETED",
+      "pattern": "Τεχνολογία\\s*Βιοσυντονισμού"
+    },
+    {
+      "title": "Umami  και…χάνουμε βάρος,  τρώγοντας περισσότερο !!!",
+      "id": "tag:blogger.com,1999:blog-3066255942376026513.post-610137475112843346",
+      "source_file": ".data/articles.json",
+      "action": "PATTERN_DELETED",
+      "pattern": "Sensitiv\\s*Imago"
+    },
+    {
+      "title": "Umami  και…χάνουμε βάρος,  τρώγοντας περισσότερο !!!",
+      "id": "tag:blogger.com,1999:blog-3066255942376026513.post-610137475112843346",
+      "source_file": "src/lib/content.json",
+      "action": "PATTERN_DELETED",
+      "pattern": "«Sensitiv\\s*Imago»\\s*\\."
+    },
+    {
+      "title": "Umami  και…χάνουμε βάρος,  τρώγοντας περισσότερο !!!",
+      "id": "tag:blogger.com,1999:blog-3066255942376026513.post-610137475112843346",
+      "source_file": "src/lib/content.json",
+      "action": "PATTERN_DELETED",
+      "pattern": "Τεχνολογία\\s*Βιοσυντονισμού"
+    },
+    {
+      "title": "Umami  και…χάνουμε βάρος,  τρώγοντας περισσότερο !!!",
+      "id": "tag:blogger.com,1999:blog-3066255942376026513.post-610137475112843346",
+      "source_file": "src/lib/content.json",
+      "action": "PATTERN_DELETED",
+      "pattern": "Sensitiv\\s*Imago"
+    }
+  ],
+  "total_deletions": 6,
+  "timestamp": "2025-02-27T07:40:00Z"
+}

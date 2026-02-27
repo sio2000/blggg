@@ -1,0 +1,41 @@
+{
+  "changes_made": [
+    {
+      "title": "Φυσικά Αφροδισιακά για άνδρες και γυναίκες",
+      "id": "tag:blogger.com,1999:blog-3066255942376026513.post-4373383186751250433",
+      "source_file": ".data/articles.json",
+      "action": "TEXT_DELETED",
+      "deleted_text": "Τεχνολογία Βιοσυντονισμού «</span></i><span style=\"background-color: white;\"><i><span lang=\"EN-US\">S..."
+    },
+    {
+      "title": "Λεπτίνη, η ορμόνη ρυθμιστής της Ενέργειας",
+      "id": "diet-web-20260227061727-4307",
+      "source_file": ".data/articles.json",
+      "action": "TEXT_DELETED",
+      "deleted_text": "Κατερίνα Μηστριώτη κλινική διατροφολόγος και σύμβουλος Ολιστικών Εφαρμογών.<br/>\n\"Λεπτίνη, η ορμόνη ..."
+    },
+    {
+      "title": "Κάνοντας Δίαιτα…. παχαίνετε !!!!",
+      "id": "tag:blogger.com,1999:blog-3066255942376026513.post-4841918018733742659",
+      "source_file": ".data/articles.json",
+      "action": "TEXT_DELETED",
+      "deleted_text": "Έλεγχος με το «</span></u></i></b><b><i><u><span lang=\"EN-US\" style=\"color: #7f7f7f; mso-ansi-langua..."
+    },
+    {
+      "title": "Φυσικά Αφροδισιακά για άνδρες και γυναίκες",
+      "id": "tag:blogger.com,1999:blog-3066255942376026513.post-4373383186751250433",
+      "source_file": "src/lib/content.json",
+      "action": "TEXT_DELETED",
+      "deleted_text": "Τεχνολογία Βιοσυντονισμού «</span></i><span style=\"background-color: white;\"><i><span lang=\"EN-US\">S..."
+    },
+    {
+      "title": "Κάνοντας Δίαιτα…. παχαίνετε !!!!",
+      "id": "tag:blogger.com,1999:blog-3066255942376026513.post-4841918018733742659",
+      "source_file": "src/lib/content.json",
+      "action": "TEXT_DELETED",
+      "deleted_text": "Έλεγχος με το «</span></u></i></b><b><i><u><span lang=\"EN-US\" style=\"color: #7f7f7f; mso-ansi-langua..."
+    }
+  ],
+  "total_changes": 5,
+  "timestamp": "2025-02-27T06:30:00Z"
+}
