@@ -64,6 +64,26 @@ export async function getArticles(): Promise<Article[]> {
     // Production on Netlify - always use Blobs
     const store = getStore(ARTICLES_STORE);
     const data = await store.get(ARTICLES_KEY, { type: "json" });
+    
+    // ALWAYS try to sync from local file to ensure we have all articles
+    if (!inNetlifyFunctionsTemp) {
+      try {
+        const localData = await fs.readFile(articlesFile, "utf-8");
+        const localArticles = JSON.parse(localData);
+        
+        if (localArticles.length > 0) {
+          console.log(`Found ${localArticles.length} local articles, ensuring they're on Netlify...`);
+          
+          // Always upload local articles to ensure they're available
+          await store.setJSON(ARTICLES_KEY, localArticles);
+          console.log("Successfully synced local articles to Netlify");
+          return localArticles;
+        }
+      } catch (localError) {
+        console.log("Could not load local articles:", localError);
+      }
+    }
+    
     return (data as Article[]) || [];
   } catch (error) {
     console.error("Error fetching articles:", error);
@@ -172,7 +192,8 @@ export async function uploadImage(
     try {
       const store = getStore(IMAGES_STORE);
       const buffer = Buffer.from(data, "base64");
-      await store.set(key, buffer, { metadata: { contentType } });
+      const arrayBuffer = buffer.buffer.slice(buffer.byteOffset, buffer.byteOffset + buffer.byteLength);
+      await store.set(key, arrayBuffer, { metadata: { contentType } });
       return `/api/images/${key}`;
     } catch (storeError) {
       const storeErrorMsg = storeError instanceof Error ? storeError.message : String(storeError);

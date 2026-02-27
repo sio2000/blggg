@@ -5,10 +5,14 @@ import {
   updateArticle,
   deleteArticle,
 } from "@/lib/db";
+import { syncArticles } from "@/lib/sync-articles";
 
 // GET - Fetch all articles
 export async function GET() {
   try {
+    // Ensure articles are synced before fetching
+    await syncArticles();
+    
     const articles = await getArticles();
     return NextResponse.json({ articles });
   } catch (error) {
